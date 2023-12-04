@@ -20,4 +20,4 @@ The script `setup.sh` creates a security group, the EC2 instances and the DNS re
 ./setup.sh
 ```
 # Delete Resources
-The script 'clean.sh' deletes all resources created by `setup.sh`.
+The script `clean.sh` deletes all resources created by `setup.sh`.
